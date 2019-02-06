@@ -1,6 +1,6 @@
 {
   "name": "@instaffogmbh/react-bigpicture",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "description": "React Lightbox Component based on BigPicture.js / Video and Image",
   "main": "lib/index.js",
   "scripts": {
